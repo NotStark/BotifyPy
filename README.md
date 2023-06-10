@@ -7,4 +7,4 @@
 
 ## When will start working on `BotifyPy` ?
 - I will start after a year or two because of studies.
-- I also want to gain some more expirience in programming so that i can make it much better.
+- Also i want to gain some more expirience in programming so that i can make it much better.
